@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+.input-group>.form-control {
+    min-height: calc(2.08rem + 2px);
+    height: calc(2.08rem + 2px);
+    padding-top: 0.27rem;
+    padding-bottom: 0.27rem;
+    transition: all .2s linear;
+    border: solid 1px #b7b7b7;
+}
+
+.pointer{
+    cursor: pointer;
+}
